@@ -1,1 +1,1 @@
-console.log("Segundo consolejivjhgcvugcvuv");
+console.log("Añadido segundo console al ejercicio3.js");
